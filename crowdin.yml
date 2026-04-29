@@ -1,4 +1,4 @@
 files:
-  - source: /*
+  - source: /*.json
     translation: /translations/crowdin/%language%/%original_file_name%
     update_option: update_without_changes
